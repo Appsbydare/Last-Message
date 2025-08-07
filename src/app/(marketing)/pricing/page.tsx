@@ -194,7 +194,7 @@ export default function PricingPage() {
                 How does the message delivery work?
               </h3>
               <p className="text-gray-600">
-                We use a sophisticated check-in system that monitors your activity. If you don't respond to our check-ins for a specified period, your messages will be automatically delivered to your designated recipients.
+                We use a sophisticated check-in system that monitors your activity. If you don&apos;t respond to our check-ins for a specified period, your messages will be automatically delivered to your designated recipients.
               </p>
             </div>
             
